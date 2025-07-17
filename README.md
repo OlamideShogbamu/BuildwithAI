@@ -22,7 +22,7 @@ npx shadcn-ui@latest init
 ### Add UI components and icons
 
 ```bash
-npx shadcn-ui@latest add button card navigation-menu input badge separator
+npx shadcn@latest add button card navigation-menu input badge separator
 npm install lucide-react
 ```
 
