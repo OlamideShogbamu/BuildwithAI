@@ -9,7 +9,7 @@ export default function Hero() {
           Find Your Perfect Pair
         </h1>
         <p className="mt-4 max-w-xl text-lg md:text-xl">
-          Step up your game with the latest drops from the world's biggest brands.
+          Step up your game with the latest drops from the world&apos;s biggest brands.
         </p>
         <Button size="lg" className="mt-8">
           Shop Now
@@ -18,4 +18,3 @@ export default function Hero() {
     </section>
   );
 }
-
